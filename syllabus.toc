@@ -1,0 +1,72 @@
+\contentsline {chapter}{Forord}{iii}{chapter*.1}
+\contentsline {paragraph}{}{iii}{section*.2}
+\contentsline {chapter}{Innhold}{iv}{section*.3}
+\contentsline {chapter}{\chapternumberline {1}Hvordan jobbe systematisk}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}\IeC {\r A} lage verkt\IeC {\o }y for \IeC {\r a} ikke v\IeC {\ae }re redd}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}L\IeC {\ae }r av feil}{1}{section.1.2}
+\contentsline {section}{\numberline {1.3}Hvordan finne god informasjon}{1}{section.1.3}
+\contentsline {section}{\numberline {1.4}Sjekklister fra bakken og opp?}{1}{section.1.4}
+\contentsline {section}{\numberline {1.5}Systemer er kjedelig}{1}{section.1.5}
+\contentsline {section}{\numberline {1.6}Noen praktiske prinsipper}{1}{section.1.6}
+\contentsline {chapter}{\chapternumberline {2}Hjertesykdommer}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}Anatomi}{3}{section.2.1}
+\contentsline {paragraph}{Slik ser hjerte ut\\}{3}{section*.4}
+\contentsline {paragraph}{Effektiv jobbing\\}{3}{section*.5}
+\contentsline {section}{\numberline {2.2}Fysiologi}{3}{section.2.2}
+\contentsline {paragraph}{Hva menes med hjerte- og karsykdommer?\\}{3}{section*.6}
+\contentsline {section}{\numberline {2.3}Patologi}{4}{section.2.3}
+\contentsline {paragraph}{Skader oppst\IeC {\r a}r\\}{4}{section*.7}
+\contentsline {section}{\numberline {2.4}Klinikk}{4}{section.2.4}
+\contentsline {subsection}{Hjerteinfarkt}{4}{section*.8}
+\contentsline {paragraph}{Symptomer\\}{4}{section*.9}
+\contentsline {paragraph}{F\IeC {\o }rstehjelp\\}{4}{section*.10}
+\contentsline {paragraph}{Farlige momenter\\}{4}{section*.11}
+\contentsline {paragraph}{Hva skjer etterp\IeC {\r a}?\\}{5}{section*.12}
+\contentsline {paragraph}{Hva m\IeC {\r a} hjemmetjenesten v\IeC {\ae }re oppmerksomme p\IeC {\r a}?\\}{5}{section*.13}
+\contentsline {subsection}{Hjertesvikt}{5}{section*.14}
+\contentsline {subsection}{Atrieflimmer}{5}{section*.15}
+\contentsline {subsection}{Digitalis}{5}{section*.16}
+\contentsline {section}{\numberline {2.5}Pasienteksempler}{5}{section.2.5}
+\contentsline {subsection}{Pasient 1}{5}{section*.17}
+\contentsline {subsection}{Pasient 2}{5}{section*.18}
+\contentsline {chapter}{\chapternumberline {3}Nevrologiske sykdommer}{7}{chapter.3}
+\contentsline {section}{\numberline {3.1}Anatomi}{7}{section.3.1}
+\contentsline {section}{\numberline {3.2}Fysiologi}{7}{section.3.2}
+\contentsline {section}{\numberline {3.3}Patologi}{7}{section.3.3}
+\contentsline {section}{\numberline {3.4}Klinikk}{7}{section.3.4}
+\contentsline {section}{\numberline {3.5}Pasienteksempler}{7}{section.3.5}
+\contentsline {subsection}{Pasient 3}{7}{section*.19}
+\contentsline {subsection}{Pasient 4}{7}{section*.20}
+\contentsline {chapter}{\chapternumberline {4}Lungesykdommer}{9}{chapter.4}
+\contentsline {section}{\numberline {4.1}Anatomi}{9}{section.4.1}
+\contentsline {section}{\numberline {4.2}Fysiologi}{9}{section.4.2}
+\contentsline {section}{\numberline {4.3}Patologi}{9}{section.4.3}
+\contentsline {section}{\numberline {4.4}Klinikk}{9}{section.4.4}
+\contentsline {section}{\numberline {4.5}Pasienteksempler}{9}{section.4.5}
+\contentsline {subsection}{Pasient 5}{9}{section*.21}
+\contentsline {subsection}{Pasient 6}{9}{section*.22}
+\contentsline {chapter}{\chapternumberline {5}Urinveier}{11}{chapter.5}
+\contentsline {section}{\numberline {5.1}Anatomi}{11}{section.5.1}
+\contentsline {section}{\numberline {5.2}Fysiologi}{11}{section.5.2}
+\contentsline {section}{\numberline {5.3}Patologi}{11}{section.5.3}
+\contentsline {section}{\numberline {5.4}Klinikk}{11}{section.5.4}
+\contentsline {section}{\numberline {5.5}Pasienteksempler}{11}{section.5.5}
+\contentsline {subsection}{Pasient 7}{11}{section*.23}
+\contentsline {subsection}{Pasient 8}{11}{section*.24}
+\contentsline {chapter}{\chapternumberline {6}Delir}{13}{chapter.6}
+\contentsline {section}{\numberline {6.1}Anatomi}{13}{section.6.1}
+\contentsline {section}{\numberline {6.2}Fysiologi}{13}{section.6.2}
+\contentsline {section}{\numberline {6.3}Patologi}{13}{section.6.3}
+\contentsline {section}{\numberline {6.4}Klinikk}{13}{section.6.4}
+\contentsline {section}{\numberline {6.5}Pasienteksempler}{13}{section.6.5}
+\contentsline {subsection}{Pasient 9}{13}{section*.25}
+\contentsline {subsection}{Pasient 10}{13}{section*.26}
+\contentsline {chapter}{\chapternumberline {7}Diabetes i alderdommen}{15}{chapter.7}
+\contentsline {section}{\numberline {7.1}Anatomi}{15}{section.7.1}
+\contentsline {section}{\numberline {7.2}Fysiologi}{15}{section.7.2}
+\contentsline {section}{\numberline {7.3}Patologi}{15}{section.7.3}
+\contentsline {section}{\numberline {7.4}Klinikk}{15}{section.7.4}
+\contentsline {section}{\numberline {7.5}Pasienteksempler}{15}{section.7.5}
+\contentsline {subsection}{Pasient 11}{15}{section*.27}
+\contentsline {subsection}{Pasient 12}{15}{section*.28}
+\contentsline {chapter}{Kilder:}{17}{section*.30}
