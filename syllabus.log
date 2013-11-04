@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.7.22)  1 NOV 2013 21:00
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.7.22)  3 NOV 2013 20:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -715,22 +715,22 @@ Package: cite 2010/09/10  v 5.3
 ) (./syllabus.aux)
 \openout1 = `syllabus.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
 \AtBeginShipoutBox=\box29
-Package hyperref Info: Link coloring OFF on input line 16.
+Package hyperref Info: Link coloring OFF on input line 39.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -742,10 +742,10 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 Redoing nameref's sectioning
 Redoing nameref's label
-LaTeX Info: Redefining \nameref on input line 16.
-LaTeX Info: Redefining \ref on input line 16.
-LaTeX Info: Redefining \pageref on input line 16.
-LaTeX Info: Redefining \nameref on input line 16.
+LaTeX Info: Redefining \nameref on input line 39.
+LaTeX Info: Redefining \ref on input line 39.
+LaTeX Info: Redefining \pageref on input line 39.
+LaTeX Info: Redefining \nameref on input line 39.
 (./syllabus.out) (./syllabus.out)
 \@outlinefile=\write4
 \openout4 = `syllabus.out'.
@@ -779,29 +779,32 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-[1
+(./forside.tex) (./forord.tex [1
 
 
-{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-[2
+{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
 
 ]
-Overfull \hbox (19.80786pt too wide) in paragraph at lines 69--71
-\OT1/cmr/m/n/12 Denne bo-ken er et ved-legg til fagda-gen i ar-rangert av fa-ga
-kademiet. M^^Walgruppen
+Overfull \hbox (0.27556pt too wide) in paragraph at lines 2--4
+\OT1/cmss/m/n/12 Denne bo-ken er et ved-legg til fagda-gen i ar-rangert av fa-g
+akademiet. M^^Walgruppen
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 69--71
+Underfull \hbox (badness 10000) in paragraph at lines 2--4
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 74--75
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
 
  []
 
-[3] (./syllabus.toc
+
+LaTeX Font Warning: Font shape `OT1/cmss/m/it' in size <12> not available
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 9.
+
+[3]) (./syllabus.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 1.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -810,97 +813,149 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 1.
  [4]) [5] [6
 
-] [1
+] (./kap/systematisk.tex
 
-] (./kap/hjerte.tex [2]
-Underfull \hbox (badness 10000) in paragraph at lines 3--4
+LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 4.
+
+[1
+
+]) (./kap/hjerte.tex [2]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\\' on input line 1.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
 
-<./kap/bilder/hjerte.png, id=267, 256.96pt x 256.96pt>
+<./kap/bilder/hjerte.png, id=273, 256.96pt x 256.96pt>
 File: ./kap/bilder/hjerte.png Graphic file (type png)
 
 <use ./kap/bilder/hjerte.png>
-Package pdftex.def Info: ./kap/bilder/hjerte.png used on input line 8.
-(pdftex.def)             Requested size: 361.34999pt x 361.38046pt.
+Package pdftex.def Info: ./kap/bilder/hjerte.png used on input line 9.
+(pdftex.def)             Requested size: 180.67499pt x 180.67847pt.
  [3
 
 ]
 
-LaTeX Warning: Citation `!!!' on page 4 undefined on input line 23.
+LaTeX Warning: Citation `!!!' on page 4 undefined on input line 24.
 
 [4 <./kap/bilder/hjerte.png (PNG copy)>]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 35.
+LaTeX Font Info:    Try loading font information for OMS+cmss on input line 36.
 
-(/usr/local/texlive/2013/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 35.
+LaTeX Font Info:    No file OMScmss.fd. on input line 36.
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--36
 
- []
+LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead
+(Font)              for symbol `textbullet' on input line 36.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 36--37
 
  []
 
-[5] [6]
-Underfull \hbox (badness 10000) in paragraph at lines 63--65
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
 
  []
 
-[7] [8]) (./kap/nevro.tex [9
+[5]
+Overfull \hbox (7.70174pt too wide) in paragraph at lines 52--53
+[] \OT1/cmss/m/n/12 Ikke glem ^^Wa veie hjertesvik-t-pasien-ter. Alle med hejrt
+esvikt b^^\r f^^\re drikkeskjema
+ []
 
-] [10]) [11
 
-] [12
+Underfull \hbox (badness 10000) in paragraph at lines 64--66
 
-] [13] [14
+ []
 
-] [15] [16
+[6] [7]) (./kap/nevro.tex [8
+
+] [9] [10]) (./kap/lunge.tex
+File: ./kap/bilder/hjerte.png Graphic file (type png)
+
+<use ./kap/bilder/hjerte.png>
+Package pdftex.def Info: ./kap/bilder/hjerte.png used on input line 8.
+(pdftex.def)             Requested size: 361.34999pt x 361.38046pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 18.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 18.
+ [11
 
 ]
-(./syllabus.bbl [17] [18
+File: ./kap/bilder/hjerte.png Graphic file (type png)
+ <use ./kap/bilder/hjerte.png>
+Package pdftex.def Info: ./kap/bilder/hjerte.png used on input line 26.
+(pdftex.def)             Requested size: 361.34999pt x 361.38046pt.
+
+Underfull \vbox (badness 1478) has occurred while \output is active []
+
+ [12])
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [13]
+[14] [15
+
+] [16
+
+] [17] [18
+
+] (./syllabus.bbl [19] [20
 
 ]
 bibitemlist
-) [19]
+) [21]
 \tf@toc=\write5
 \openout5 = `syllabus.toc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 147.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 147.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 96.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 96.
  (./syllabus.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 147.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 147.
-Package rerunfilecheck Info: File `syllabus.out' has not changed.
-(rerunfilecheck)             Checksum: 861EDB7340DDC3C506E8906E6D770AB1;2410.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 96.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 96.
+
+
+Package rerunfilecheck Warning: File `syllabus.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `syllabus.out':
+(rerunfilecheck)             Before: 761534928D01A900AD72826C01624BFA;2480
+(rerunfilecheck)             After:  99AF4DE1735EBB3CAF54D2145302C200;2487.
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 147.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 96.
  ) 
 Here is how much of TeX's memory you used:
- 9090 strings out of 493315
- 129055 string characters out of 6137904
- 241317 words of memory out of 5000000
- 12347 multiletter control sequences out of 15000+600000
- 9763 words of font info for 34 fonts, out of 8000000 for 9000
+ 9135 strings out of 493315
+ 129673 string characters out of 6137904
+ 242370 words of memory out of 5000000
+ 12361 multiletter control sequences out of 15000+600000
+ 12538 words of font info for 43 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 32i,11n,29p,612b,382s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
-></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-</usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></
-usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></u
-sr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on syllabus.pdf (25 pages, 236383 bytes).
+ 32i,11n,29p,613b,382s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><
+/usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></
+usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></u
+sr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr
+/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></us
+r/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></us
+r/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
+/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on syllabus.pdf (27 pages, 267990 bytes).
 PDF statistics:
- 444 PDF objects out of 1000 (max. 8388607)
- 406 compressed objects within 5 object streams
- 126 named destinations out of 1000 (max. 500000)
- 350 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 487 PDF objects out of 1000 (max. 8388607)
+ 443 compressed objects within 5 object streams
+ 140 named destinations out of 1000 (max. 500000)
+ 358 words of extra memory for PDF output out of 10000 (max. 10000000)
 
