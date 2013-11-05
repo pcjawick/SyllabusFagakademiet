@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.7.22)  4 NOV 2013 21:21
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.7.22)  5 NOV 2013 15:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -715,22 +715,22 @@ Package: cite 2010/09/10  v 5.3
 ) (./syllabus.aux)
 \openout1 = `syllabus.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
 \AtBeginShipoutBox=\box29
-Package hyperref Info: Link coloring OFF on input line 39.
+Package hyperref Info: Link coloring OFF on input line 40.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -742,10 +742,10 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 Redoing nameref's sectioning
 Redoing nameref's label
-LaTeX Info: Redefining \nameref on input line 39.
-LaTeX Info: Redefining \ref on input line 39.
-LaTeX Info: Redefining \pageref on input line 39.
-LaTeX Info: Redefining \nameref on input line 39.
+LaTeX Info: Redefining \nameref on input line 40.
+LaTeX Info: Redefining \ref on input line 40.
+LaTeX Info: Redefining \pageref on input line 40.
+LaTeX Info: Redefining \nameref on input line 40.
 (./syllabus.out) (./syllabus.out)
 \@outlinefile=\write4
 \openout4 = `syllabus.out'.
@@ -814,122 +814,351 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [4]) [5] [6
 
 ] (./kap/systematisk.tex
+LaTeX Font Info:    Try loading font information for OMS+cmss on input line 4.
+LaTeX Font Info:    No file OMScmss.fd. on input line 4.
 
-LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 4.
 
-[1
+LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead
+(Font)              for symbol `textbullet' on input line 4.
 
-]) (./kap/hjerte.tex [2]
 
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 1.
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
 
-<./kap/bilder/hjerte.png, id=274, 256.96pt x 256.96pt>
-File: ./kap/bilder/hjerte.png Graphic file (type png)
 
-<use ./kap/bilder/hjerte.png>
-Package pdftex.def Info: ./kap/bilder/hjerte.png used on input line 9.
-(pdftex.def)             Requested size: 180.67499pt x 180.67847pt.
- [3
-
-]
-
-LaTeX Warning: Citation `!!!' on page 4 undefined on input line 24.
-
-[4 <./kap/bilder/hjerte.png (PNG copy)>]
-LaTeX Font Info:    Try loading font information for OMS+cmss on input line 36.
-
-LaTeX Font Info:    No file OMScmss.fd. on input line 36.
-
-
-LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
-(Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbullet' on input line 36.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 36--37
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 37--38
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+
+ []
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 14.
+
+[1
+
+]) (./kap/hjerte.tex [2]
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
+
+ []
+
+[3
+
+] <./kap/bilder/hjerte.png, id=303, 256.96pt x 256.96pt>
+File: ./kap/bilder/hjerte.png Graphic file (type png)
+
+<use ./kap/bilder/hjerte.png>
+Package pdftex.def Info: ./kap/bilder/hjerte.png used on input line 20.
+(pdftex.def)             Requested size: 180.67499pt x 180.67847pt.
+ [4 <./kap/bilder/hjerte.png (PNG copy)>]
+
+LaTeX Warning: Citation `!!!' on page 5 undefined on input line 35.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
 
  []
 
 [5]
-Overfull \hbox (7.70174pt too wide) in paragraph at lines 52--53
+Underfull \hbox (badness 10000) in paragraph at lines 48--49
+
+ []
+
+
+Overfull \hbox (7.70174pt too wide) in paragraph at lines 63--64
 [] \OT1/cmss/m/n/12 Ikke glem ^^Wa veie hjertesvik-t-pasien-ter. Alle med hejrt
 esvikt b^^\r f^^\re drikkeskjema
  []
 
+[6]
+Overfull \hbox (50.9986pt too wide) in paragraph at lines 71--72
+\OT1/cmss/m/n/12 hjer-nes-lag. Noen nye be-han-dlinger er un-der innf^^\ring fo
+r ek-sem-pel Rivaroxiban(Xarelto[]),
+ []
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--66
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--77
 
  []
 
-[6] [7]) (./kap/nevro.tex [8
+[7] [8]) (./kap/nevro.tex [9
 
-] [9] [10]) (./kap/lunge.tex
+] [10]) (./kap/lunge.tex
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--8
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
+
+ []
+
+[11
+
+]
+File: ./kap/bilder/hjerte.png Graphic file (type png)
+ <use ./kap/bilder/hjerte.png>
+Package pdftex.def Info: ./kap/bilder/hjerte.png used on input line 22.
+(pdftex.def)             Requested size: 361.34999pt x 361.38046pt.
+ [12]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 32.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 32.
+File: ./kap/bilder/hjerte.png Graphic file (type png)
+ <use ./kap/bilder/hjerte.png>
+Package pdftex.def Info: ./kap/bilder/hjerte.png used on input line 40.
+(pdftex.def)             Requested size: 361.34999pt x 361.38046pt.
 File: ./kap/bilder/hjerte.png Graphic file (type png)
 
 <use ./kap/bilder/hjerte.png>
-Package pdftex.def Info: ./kap/bilder/hjerte.png used on input line 8.
+Package pdftex.def Info: ./kap/bilder/hjerte.png used on input line 54.
 (pdftex.def)             Requested size: 361.34999pt x 361.38046pt.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 18.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 18.
- [11
+ [13]
+Underfull \vbox (badness 2452) has occurred while \output is active []
+
+ [14])
+(./kap/urinveier.tex [15] [16
 
 ]
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
 File: ./kap/bilder/hjerte.png Graphic file (type png)
- <use ./kap/bilder/hjerte.png>
-Package pdftex.def Info: ./kap/bilder/hjerte.png used on input line 26.
+<use ./kap/bilder/hjerte.png>
+Package pdftex.def Info: ./kap/bilder/hjerte.png used on input line 12.
 (pdftex.def)             Requested size: 361.34999pt x 361.38046pt.
+ [17] [18]) (./kap/delir.tex [19] [20
 
-Underfull \vbox (badness 1478) has occurred while \output is active []
+]
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
- [12])
-(./kap/urinveier.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
+ []
 
- [13]
-[14]
-File: ./kap/bilder/hjerte.png Graphic file (type png)
- <use ./kap/bilder/hjerte.png>
-Package pdftex.def Info: ./kap/bilder/hjerte.png used on input line 5.
-(pdftex.def)             Requested size: 361.34999pt x 361.38046pt.
- [15
 
-])
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
- [16]
-[17] [18
+ []
 
-] [19] [20
 
-] (./syllabus.bbl [21] [22
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+
+ []
+
+[21]
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
+
+ []
+
+[22]
+Underfull \hbox (badness 10000) in paragraph at lines 30--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
+
+ []
+
+) [23] [24
+
+] (./syllabus.bbl [25] [26
 
 ]
 bibitemlist
-) [23]
+) [27]
 \tf@toc=\write5
 \openout5 = `syllabus.toc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 90.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 90.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 84.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 84.
  (./syllabus.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 90.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 90.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 84.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 84.
 Package rerunfilecheck Info: File `syllabus.out' has not changed.
-(rerunfilecheck)             Checksum: 589854DF09E8976C8B099BD1344858F9;2487.
+(rerunfilecheck)             Checksum: 177973B4E8585B688B827410A787BCDD;2831.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -937,16 +1166,16 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 90.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 84.
  ) 
 Here is how much of TeX's memory you used:
- 9149 strings out of 493315
- 129864 string characters out of 6137904
- 241399 words of memory out of 5000000
- 12364 multiletter control sequences out of 15000+600000
- 12538 words of font info for 43 fonts, out of 8000000 for 9000
+ 9179 strings out of 493315
+ 130244 string characters out of 6137904
+ 242571 words of memory out of 5000000
+ 12374 multiletter control sequences out of 15000+600000
+ 12191 words of font info for 42 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 32i,11n,29p,613b,382s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 32i,10n,29p,613b,384s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><
 /usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></
@@ -954,12 +1183,11 @@ usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></u
 sr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr
 /local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></us
 r/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></us
-r/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
-/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on syllabus.pdf (29 pages, 270712 bytes).
+r/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on syllabus.pdf (33 pages, 265783 bytes).
 PDF statistics:
- 505 PDF objects out of 1000 (max. 8388607)
- 459 compressed objects within 5 object streams
- 148 named destinations out of 1000 (max. 500000)
- 358 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 560 PDF objects out of 1000 (max. 8388607)
+ 510 compressed objects within 6 object streams
+ 166 named destinations out of 1000 (max. 500000)
+ 398 words of extra memory for PDF output out of 10000 (max. 10000000)
 
