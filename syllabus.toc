@@ -80,26 +80,30 @@
 \contentsline {subsection}{\numberline {4.5.2}Pasient 6}{14}{subsection.4.5.2}
 \contentsline {chapter}{\chapternumberline {5}Urinveier}{15}{chapter.5}
 \contentsline {section}{\numberline {5.1}Anatomi}{15}{section.5.1}
+\contentsline {paragraph}{Feilkonstruksjon?\\}{15}{section*.43}
+\contentsline {paragraph}{Den svake str\IeC {\r a}len\\}{15}{section*.44}
 \contentsline {section}{\numberline {5.2}Fysiologi}{15}{section.5.2}
 \contentsline {section}{\numberline {5.3}Patologi}{15}{section.5.3}
-\contentsline {section}{\numberline {5.4}Klinikk}{15}{section.5.4}
-\contentsline {section}{\numberline {5.5}Pasienteksempler}{15}{section.5.5}
-\contentsline {subsection}{\numberline {5.5.1}Pasient 7}{15}{subsection.5.5.1}
-\contentsline {subsection}{\numberline {5.5.2}Pasient 8}{15}{subsection.5.5.2}
-\contentsline {chapter}{\chapternumberline {6}Delir}{17}{chapter.6}
-\contentsline {section}{\numberline {6.1}Anatomi}{17}{section.6.1}
-\contentsline {section}{\numberline {6.2}Fysiologi}{17}{section.6.2}
-\contentsline {section}{\numberline {6.3}Patologi}{17}{section.6.3}
-\contentsline {section}{\numberline {6.4}Klinikk}{17}{section.6.4}
-\contentsline {section}{\numberline {6.5}Pasienteksempler}{17}{section.6.5}
-\contentsline {subsection}{\numberline {6.5.1}Pasient 9}{17}{subsection.6.5.1}
-\contentsline {subsection}{\numberline {6.5.2}Pasient 10}{17}{subsection.6.5.2}
-\contentsline {chapter}{\chapternumberline {7}Diabetes i alderdommen}{19}{chapter.7}
-\contentsline {section}{\numberline {7.1}Anatomi}{19}{section.7.1}
-\contentsline {section}{\numberline {7.2}Fysiologi}{19}{section.7.2}
-\contentsline {section}{\numberline {7.3}Patologi}{19}{section.7.3}
-\contentsline {section}{\numberline {7.4}Klinikk}{19}{section.7.4}
-\contentsline {section}{\numberline {7.5}Pasienteksempler}{19}{section.7.5}
-\contentsline {subsection}{\numberline {7.5.1}Pasient 11}{19}{subsection.7.5.1}
-\contentsline {subsection}{\numberline {7.5.2}Pasient 12}{19}{subsection.7.5.2}
-\contentsline {chapter}{Kilder:}{21}{section*.44}
+\contentsline {paragraph}{Flere niv\IeC {\r a}er\\}{15}{section*.45}
+\contentsline {section}{\numberline {5.4}Klinikk}{16}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}UVI}{16}{subsection.5.4.1}
+\contentsline {section}{\numberline {5.5}Pasienteksempler}{17}{section.5.5}
+\contentsline {subsection}{\numberline {5.5.1}Pasient 7}{17}{subsection.5.5.1}
+\contentsline {subsection}{\numberline {5.5.2}Pasient 8}{17}{subsection.5.5.2}
+\contentsline {chapter}{\chapternumberline {6}Delir}{19}{chapter.6}
+\contentsline {section}{\numberline {6.1}Anatomi}{19}{section.6.1}
+\contentsline {section}{\numberline {6.2}Fysiologi}{19}{section.6.2}
+\contentsline {section}{\numberline {6.3}Patologi}{19}{section.6.3}
+\contentsline {section}{\numberline {6.4}Klinikk}{19}{section.6.4}
+\contentsline {section}{\numberline {6.5}Pasienteksempler}{19}{section.6.5}
+\contentsline {subsection}{\numberline {6.5.1}Pasient 9}{19}{subsection.6.5.1}
+\contentsline {subsection}{\numberline {6.5.2}Pasient 10}{19}{subsection.6.5.2}
+\contentsline {chapter}{\chapternumberline {7}Diabetes i alderdommen}{21}{chapter.7}
+\contentsline {section}{\numberline {7.1}Anatomi}{21}{section.7.1}
+\contentsline {section}{\numberline {7.2}Fysiologi}{21}{section.7.2}
+\contentsline {section}{\numberline {7.3}Patologi}{21}{section.7.3}
+\contentsline {section}{\numberline {7.4}Klinikk}{21}{section.7.4}
+\contentsline {section}{\numberline {7.5}Pasienteksempler}{21}{section.7.5}
+\contentsline {subsection}{\numberline {7.5.1}Pasient 11}{21}{subsection.7.5.1}
+\contentsline {subsection}{\numberline {7.5.2}Pasient 12}{21}{subsection.7.5.2}
+\contentsline {chapter}{Kilder:}{23}{section*.47}

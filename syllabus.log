@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.7.22)  3 NOV 2013 20:34
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.7.22)  4 NOV 2013 21:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -830,7 +830,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
 
-<./kap/bilder/hjerte.png, id=273, 256.96pt x 256.96pt>
+<./kap/bilder/hjerte.png, id=274, 256.96pt x 256.96pt>
 File: ./kap/bilder/hjerte.png Graphic file (type png)
 
 <use ./kap/bilder/hjerte.png>
@@ -896,50 +896,54 @@ Package pdftex.def Info: ./kap/bilder/hjerte.png used on input line 26.
 Underfull \vbox (badness 1478) has occurred while \output is active []
 
  [12])
+(./kap/urinveier.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [13]
-[14] [15
+[14]
+File: ./kap/bilder/hjerte.png Graphic file (type png)
+ <use ./kap/bilder/hjerte.png>
+Package pdftex.def Info: ./kap/bilder/hjerte.png used on input line 5.
+(pdftex.def)             Requested size: 361.34999pt x 361.38046pt.
+ [15
 
-] [16
+])
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-] [17] [18
+ [16]
+[17] [18
 
-] (./syllabus.bbl [19] [20
+] [19] [20
+
+] (./syllabus.bbl [21] [22
 
 ]
 bibitemlist
-) [21]
+) [23]
 \tf@toc=\write5
 \openout5 = `syllabus.toc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 96.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 96.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 90.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 90.
  (./syllabus.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 96.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 96.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 90.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 90.
+Package rerunfilecheck Info: File `syllabus.out' has not changed.
+(rerunfilecheck)             Checksum: 589854DF09E8976C8B099BD1344858F9;2487.
 
-
-Package rerunfilecheck Warning: File `syllabus.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `syllabus.out':
-(rerunfilecheck)             Before: 761534928D01A900AD72826C01624BFA;2480
-(rerunfilecheck)             After:  99AF4DE1735EBB3CAF54D2145302C200;2487.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 96.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 90.
  ) 
 Here is how much of TeX's memory you used:
- 9135 strings out of 493315
- 129673 string characters out of 6137904
- 242370 words of memory out of 5000000
- 12361 multiletter control sequences out of 15000+600000
+ 9149 strings out of 493315
+ 129864 string characters out of 6137904
+ 241399 words of memory out of 5000000
+ 12364 multiletter control sequences out of 15000+600000
  12538 words of font info for 43 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  32i,11n,29p,613b,382s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -952,10 +956,10 @@ sr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr
 r/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></us
 r/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
 /local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on syllabus.pdf (27 pages, 267990 bytes).
+Output written on syllabus.pdf (29 pages, 270712 bytes).
 PDF statistics:
- 487 PDF objects out of 1000 (max. 8388607)
- 443 compressed objects within 5 object streams
- 140 named destinations out of 1000 (max. 500000)
+ 505 PDF objects out of 1000 (max. 8388607)
+ 459 compressed objects within 5 object streams
+ 148 named destinations out of 1000 (max. 500000)
  358 words of extra memory for PDF output out of 10000 (max. 10000000)
 
