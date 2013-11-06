@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.7.22)  5 NOV 2013 15:41
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.7.22)  5 NOV 2013 17:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -712,25 +712,50 @@ File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 373.
 Package: cite 2010/09/10  v 5.3
-) (./syllabus.aux)
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
+\everycr=\toks26
+\minrowclearance=\skip190
+)
+\rownum=\count151
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+(./syllabus.aux)
 \openout1 = `syllabus.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
 \AtBeginShipoutBox=\box29
-Package hyperref Info: Link coloring OFF on input line 40.
+Package hyperref Info: Link coloring OFF on input line 41.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -738,14 +763,14 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count151
+\c@section@level=\count152
 )
 Redoing nameref's sectioning
 Redoing nameref's label
-LaTeX Info: Redefining \nameref on input line 40.
-LaTeX Info: Redefining \ref on input line 40.
-LaTeX Info: Redefining \pageref on input line 40.
-LaTeX Info: Redefining \nameref on input line 40.
+LaTeX Info: Redefining \nameref on input line 41.
+LaTeX Info: Redefining \ref on input line 41.
+LaTeX Info: Redefining \pageref on input line 41.
+LaTeX Info: Redefining \nameref on input line 41.
 (./syllabus.out) (./syllabus.out)
 \@outlinefile=\write4
 \openout4 = `syllabus.out'.
@@ -753,17 +778,17 @@ LaTeX Info: Redefining \nameref on input line 40.
 
 (/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count152
+\scratchcounter=\count153
 \scratchdimen=\dimen153
 \scratchbox=\box30
-\nofMPsegments=\count153
-\nofMParguments=\count154
-\everyMPshowfont=\toks26
-\MPscratchCnt=\count155
+\nofMPsegments=\count154
+\nofMParguments=\count155
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count156
 \MPscratchDim=\dimen154
-\MPnumerator=\count156
-\makeMPintoPDFobject=\count157
-\everyMPtoPDFconversion=\toks27
+\MPnumerator=\count157
+\makeMPintoPDFobject=\count158
+\everyMPtoPDFconversion=\toks28
 ) (/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
@@ -905,13 +930,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--17
 
 [3
 
-] <./kap/bilder/hjerte.png, id=303, 256.96pt x 256.96pt>
-File: ./kap/bilder/hjerte.png Graphic file (type png)
+] <./kap/bilder/hjertebedre.jpg, id=320, 1027.84pt x 605.26125pt>
+File: ./kap/bilder/hjertebedre.jpg Graphic file (type jpg)
 
-<use ./kap/bilder/hjerte.png>
-Package pdftex.def Info: ./kap/bilder/hjerte.png used on input line 20.
-(pdftex.def)             Requested size: 180.67499pt x 180.67847pt.
- [4 <./kap/bilder/hjerte.png (PNG copy)>]
+<use ./kap/bilder/hjertebedre.jpg>
+Package pdftex.def Info: ./kap/bilder/hjertebedre.jpg used on input line 20.
+(pdftex.def)             Requested size: 361.34999pt x 212.78662pt.
+ [4 <./kap/bilder/hjertebedre.jpg>]
 
 LaTeX Warning: Citation `!!!' on page 5 undefined on input line 35.
 
@@ -926,25 +951,68 @@ Underfull \hbox (badness 10000) in paragraph at lines 48--49
  []
 
 
-Overfull \hbox (7.70174pt too wide) in paragraph at lines 63--64
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+
+ []
+
+
+Overfull \hbox (12.08578pt too wide) in paragraph at lines 60--73
+ [][] 
+ []
+
+[6]
+Overfull \hbox (7.70174pt too wide) in paragraph at lines 81--82
 [] \OT1/cmss/m/n/12 Ikke glem ^^Wa veie hjertesvik-t-pasien-ter. Alle med hejrt
 esvikt b^^\r f^^\re drikkeskjema
  []
 
-[6]
-Overfull \hbox (50.9986pt too wide) in paragraph at lines 71--72
-\OT1/cmss/m/n/12 hjer-nes-lag. Noen nye be-han-dlinger er un-der innf^^\ring fo
-r ek-sem-pel Rivaroxiban(Xarelto[]),
- []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 75--77
+Underfull \hbox (badness 10000) in paragraph at lines 93--95
 
  []
 
-[7] [8]) (./kap/nevro.tex [9
+[7] [8]) (./kap/nevro.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
-] [10]) (./kap/lunge.tex
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+
+ []
+
+<./kap/bilder/nevro1.jpg, id=373, 180.675pt x 240.9pt>
+File: ./kap/bilder/nevro1.jpg Graphic file (type jpg)
+
+<use ./kap/bilder/nevro1.jpg>
+Package pdftex.def Info: ./kap/bilder/nevro1.jpg used on input line 16.
+(pdftex.def)             Requested size: 216.81pt x 289.08221pt.
+ [9
+
+] [10 <./kap/bilder/nevro1.jpg>] [11])
+(./kap/lunge.tex [12
+
+]
 Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
@@ -994,32 +1062,41 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--17
 
  []
 
-[11
+[13] <./kap/bilder/lungeskjema.png, id=415, 351.2322pt x 448.5558pt>
+File: ./kap/bilder/lungeskjema.png Graphic file (type png)
 
-]
-File: ./kap/bilder/hjerte.png Graphic file (type png)
- <use ./kap/bilder/hjerte.png>
-Package pdftex.def Info: ./kap/bilder/hjerte.png used on input line 22.
-(pdftex.def)             Requested size: 361.34999pt x 361.38046pt.
- [12]
+<use ./kap/bilder/lungeskjema.png>
+Package pdftex.def Info: ./kap/bilder/lungeskjema.png used on input line 22.
+(pdftex.def)             Requested size: 289.07999pt x 369.19385pt.
+
+Underfull \vbox (badness 1430) has occurred while \output is active []
+
+ [14 <./kap/bilder/lungeskjema.png>]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 32.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 32.
-File: ./kap/bilder/hjerte.png Graphic file (type png)
- <use ./kap/bilder/hjerte.png>
-Package pdftex.def Info: ./kap/bilder/hjerte.png used on input line 40.
-(pdftex.def)             Requested size: 361.34999pt x 361.38046pt.
-File: ./kap/bilder/hjerte.png Graphic file (type png)
 
-<use ./kap/bilder/hjerte.png>
-Package pdftex.def Info: ./kap/bilder/hjerte.png used on input line 54.
-(pdftex.def)             Requested size: 361.34999pt x 361.38046pt.
- [13]
-Underfull \vbox (badness 2452) has occurred while \output is active []
+<./kap/bilder/emfysemct.png, id=425, 472.164pt x 357.9774pt>
+File: ./kap/bilder/emfysemct.png Graphic file (type png)
 
- [14])
-(./kap/urinveier.tex [15] [16
+<use ./kap/bilder/emfysemct.png>
+Package pdftex.def Info: ./kap/bilder/emfysemct.png used on input line 40.
+(pdftex.def)             Requested size: 361.34999pt x 273.96106pt.
+
+<./kap/bilder/goldnorsk.png, id=426, 650.9118pt x 318.4698pt>
+File: ./kap/bilder/goldnorsk.png Graphic file (type png)
+
+<use ./kap/bilder/goldnorsk.png>
+Package pdftex.def Info: ./kap/bilder/goldnorsk.png used on input line 54.
+(pdftex.def)             Requested size: 433.62pt x 212.15393pt.
+
+Overfull \hbox (50.62pt too wide) in paragraph at lines 54--55
+ [][] 
+ []
+
+[15]) (./kap/urinveier.tex [16 <./kap/bilder/emfysemct.png>] [17 <./kap/bilder/
+goldnorsk.png>] [18
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 4--5
@@ -1041,11 +1118,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--8
 
  []
 
-File: ./kap/bilder/hjerte.png Graphic file (type png)
-<use ./kap/bilder/hjerte.png>
-Package pdftex.def Info: ./kap/bilder/hjerte.png used on input line 12.
-(pdftex.def)             Requested size: 361.34999pt x 361.38046pt.
- [17] [18]) (./kap/delir.tex [19] [20
+<./kap/bilder/urinveier.png, id=461, 1003.75pt x 1318.9275pt>
+File: ./kap/bilder/urinveier.png Graphic file (type png)
+
+<use ./kap/bilder/urinveier.png>
+Package pdftex.def Info: ./kap/bilder/urinveier.png used on input line 12.
+(pdftex.def)             Requested size: 361.34999pt x 474.81354pt.
+ [19]) (./kap/delir.tex [20] [21 <./kap/bilder/urinveier.png>] [22
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 4--5
@@ -1082,7 +1161,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--11
 
  []
 
-[21]
+[23]
 Underfull \hbox (badness 10000) in paragraph at lines 20--21
 
  []
@@ -1132,7 +1211,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 29--30
 
  []
 
-[22]
+[24]
 Underfull \hbox (badness 10000) in paragraph at lines 30--31
 
  []
@@ -1142,23 +1221,73 @@ Underfull \hbox (badness 10000) in paragraph at lines 31--32
 
  []
 
-) [23] [24
-
-] (./syllabus.bbl [25] [26
+) (./kap/diabetes.tex [25] [26
 
 ]
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+
+ []
+
+[27]
+
+LaTeX Font Warning: Font shape `OMS/cmss/bx/it' undefined
+(Font)              using `OMS/cmss/m/n' instead on input line 23.
+
+
+LaTeX Font Warning: Font shape `OMS/cmss/bx/n' undefined
+(Font)              using `OMS/cmss/m/n' instead on input line 23.
+
+[28]
+Overfull \hbox (15.34676pt too wide) in paragraph at lines 38--39
+[] \OT1/cmss/m/n/12 Sul-fony-lurea(Glibencalmid(Glibenclamid Ra-tio-pharm [], G
+limepirid (Amaryl[])) 
+ []
+
+
+Overfull \hbox (28.50505pt too wide) in paragraph at lines 44--45
+\OT1/cmss/m/n/12 ulerer in-sulin-pro-duk-sjo-nen: Sul-fony-lurea (Glibenclamid[
+], Glimepirid[], Mindiab[]og
+ []
+
+) [29] [30] (./syllabus.bbl
 bibitemlist
-) [27]
+) (./syllabus.lof [31
+
+
+]) [32]
 \tf@toc=\write5
 \openout5 = `syllabus.toc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 84.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 84.
+\tf@lof=\write6
+\openout6 = `syllabus.lof'.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 78.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 78.
  (./syllabus.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 84.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 84.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 78.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 78.
 Package rerunfilecheck Info: File `syllabus.out' has not changed.
-(rerunfilecheck)             Checksum: 177973B4E8585B688B827410A787BCDD;2831.
+(rerunfilecheck)             Checksum: C0D605BF0B9D5EC91CF2E6AEDB722F58;3056.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1166,16 +1295,16 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 84.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 78.
  ) 
 Here is how much of TeX's memory you used:
- 9179 strings out of 493315
- 130244 string characters out of 6137904
- 242571 words of memory out of 5000000
- 12374 multiletter control sequences out of 15000+600000
- 12191 words of font info for 42 fonts, out of 8000000 for 9000
+ 9740 strings out of 493315
+ 137245 string characters out of 6137904
+ 254234 words of memory out of 5000000
+ 12885 multiletter control sequences out of 15000+600000
+ 12538 words of font info for 43 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 32i,10n,29p,613b,384s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 43i,13n,35p,621b,385s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><
 /usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></
@@ -1183,11 +1312,12 @@ usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></u
 sr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr
 /local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></us
 r/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></us
-r/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on syllabus.pdf (33 pages, 265783 bytes).
+r/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
+/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on syllabus.pdf (38 pages, 2193579 bytes).
 PDF statistics:
- 560 PDF objects out of 1000 (max. 8388607)
- 510 compressed objects within 6 object streams
- 166 named destinations out of 1000 (max. 500000)
- 398 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 647 PDF objects out of 1000 (max. 8388607)
+ 582 compressed objects within 6 object streams
+ 193 named destinations out of 1000 (max. 500000)
+ 447 words of extra memory for PDF output out of 10000 (max. 10000000)
 

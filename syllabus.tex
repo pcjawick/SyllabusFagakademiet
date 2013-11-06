@@ -8,6 +8,7 @@
 \usepackage{paralist}
 \usepackage{graphicx}
 \usepackage{cite}
+\usepackage[table]{xcolor}
 
 
 %slutt på pakkene
@@ -63,22 +64,15 @@
 	\input{./kap/lunge.tex}	%lungekapittelet
 	\input{./kap/urinveier.tex}%Nyrekapittelet
 	\input{./kap/delir.tex}%delirkapittelet
+	\input{./kap/diabetes.tex}%delirkapittelet
 	
-	\chapter{Diabetes i alderdommen}%diabetes og hypoglykemi
-		\section{Anatomi}
-		\section{Fysiologi}
-		\section{Patologi}
-		\section{Klinikk}
-		\section{Pasienteksempler}
-			\subsection{Pasient 11}
-			\subsection{Pasient 12}
+\backmatter
 
- 
-%Ordforklaringer?
-%Stikkordsliste
-
- \renewcommand{\bibname}{Kilder:}
+ 	\renewcommand{\bibname}{Kilder:}
             \bibliography{./kilder_bibtex/bibFA}{}
 			\bibliographystyle{plain}
+
+	\listoffigures
+
 
 \end{document}
