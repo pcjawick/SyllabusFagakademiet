@@ -11,133 +11,131 @@
 \contentsline {section}{\numberline {1.4}Hvordan finne god informasjon}{2}{section.1.4}
 \contentsline {paragraph}{Jeg lurer p\IeC {\r a}...\\}{2}{section*.7}
 \contentsline {paragraph}{Hvem bestemmer hvordan pasienter skal behandles?\\}{2}{section*.8}
-\contentsline {chapter}{\chapternumberline {2}Hjertesykdommer}{3}{chapter.2}
-\contentsline {section}{\numberline {2.1}Perlene...}{3}{section.2.1}
-\contentsline {section}{\numberline {2.2}Noen sykdommer av mange}{4}{section.2.2}
-\contentsline {section}{\numberline {2.3}Anatomi}{4}{section.2.3}
-\contentsline {paragraph}{Effektiv jobbing\\}{4}{section*.9}
-\contentsline {section}{\numberline {2.4}Fysiologi}{4}{section.2.4}
-\contentsline {paragraph}{Hva menes med hjerte- og karsykdommer?\\}{5}{section*.10}
-\contentsline {section}{\numberline {2.5}Patologi}{5}{section.2.5}
-\contentsline {paragraph}{Skader oppst\IeC {\r a}r\\}{5}{section*.11}
-\contentsline {section}{\numberline {2.6}Klinikk}{5}{section.2.6}
-\contentsline {subsection}{\numberline {2.6.1}Hjerteinfarkt}{5}{subsection.2.6.1}
-\contentsline {paragraph}{Symptomer\\}{5}{section*.12}
-\contentsline {paragraph}{F\IeC {\o }rstehjelp\\}{5}{section*.13}
-\contentsline {paragraph}{Farlige momenter\\}{5}{section*.14}
-\contentsline {paragraph}{Hva skjer etterp\IeC {\r a}?\\}{5}{section*.15}
-\contentsline {paragraph}{Tips for hverdagen\\}{6}{section*.16}
-\contentsline {subsection}{\numberline {2.6.2}Hjertesvikt}{6}{subsection.2.6.2}
-\contentsline {paragraph}{Symtomer\\}{7}{section*.17}
-\contentsline {paragraph}{Hva m\IeC {\r a} helsepersonell passe p\IeC {\r a}\\}{7}{section*.18}
-\contentsline {paragraph}{Hvor farlig er det\\}{7}{section*.19}
-\contentsline {paragraph}{Tips for hverdagen\\}{7}{section*.20}
-\contentsline {subsection}{\numberline {2.6.3}Atrieflimmer}{7}{subsection.2.6.3}
-\contentsline {paragraph}{Symptomer\\}{7}{section*.21}
-\contentsline {paragraph}{Hva m\IeC {\r a} hjemmetjenesten v\IeC {\ae }re oppmerksomme p\IeC {\r a}?\\}{7}{section*.22}
-\contentsline {paragraph}{Medisiner\\}{7}{section*.23}
-\contentsline {subsection}{\numberline {2.6.4}Digitalis}{7}{subsection.2.6.4}
-\contentsline {paragraph}{Litt om farmakologi\\}{8}{section*.24}
-\contentsline {paragraph}{Load and go...\\}{8}{section*.25}
-\contentsline {paragraph}{Rare symptomer\\}{8}{section*.26}
-\contentsline {paragraph}{Praktisk r\IeC {\r a}d:\\}{8}{section*.27}
-\contentsline {section}{\numberline {2.7}Pasienteksempler}{8}{section.2.7}
-\contentsline {subsection}{\numberline {2.7.1}Pasient 1}{8}{subsection.2.7.1}
-\contentsline {subsection}{\numberline {2.7.2}Pasient 2}{8}{subsection.2.7.2}
-\contentsline {chapter}{\chapternumberline {3}Nevrologiske sykdommer}{9}{chapter.3}
-\contentsline {section}{\numberline {3.1}Hva du skal ta med deg videre:}{9}{section.3.1}
-\contentsline {section}{\numberline {3.2}Kort om denne delen...}{9}{section.3.2}
-\contentsline {section}{\numberline {3.3}Anatomi}{9}{section.3.3}
-\contentsline {paragraph}{Et komplekst bilde}{9}{figure.3.1}
-\contentsline {paragraph}{Inndelingen\\}{10}{section*.29}
-\contentsline {section}{\numberline {3.4}Fysiologi}{10}{section.3.4}
-\contentsline {paragraph}{Kompleks struktur\\}{10}{section*.30}
-\contentsline {paragraph}{Plastisitet\\}{10}{section*.31}
-\contentsline {section}{\numberline {3.5}Patologi}{11}{section.3.5}
-\contentsline {paragraph}{Sykdommer i blod\IeC {\r a}rene\\}{11}{section*.32}
-\contentsline {paragraph}{Sykdommer i nervescellene\\}{11}{section*.33}
-\contentsline {section}{\numberline {3.6}Klinikk}{11}{section.3.6}
-\contentsline {subsection}{\numberline {3.6.1}Slag og drypp}{11}{subsection.3.6.1}
-\contentsline {subsection}{\numberline {3.6.2}Demens}{11}{subsection.3.6.2}
-\contentsline {subsubsection}{Alzheimers}{12}{section*.34}
-\contentsline {subsubsection}{Andre former for demens}{12}{section*.35}
-\contentsline {paragraph}{Lewy- Body demens\\}{12}{section*.36}
-\contentsline {paragraph}{Frontallappsdemens\\}{12}{section*.37}
-\contentsline {paragraph}{Degenerative forandringer; \IeC {\r A}reforkalkning\\}{12}{section*.38}
-\contentsline {section}{\numberline {3.7}Pasienteksempler}{12}{section.3.7}
-\contentsline {subsection}{\numberline {3.7.1}Pasient 3}{12}{subsection.3.7.1}
-\contentsline {subsection}{\numberline {3.7.2}Pasient 4}{12}{subsection.3.7.2}
-\contentsline {chapter}{\chapternumberline {4}Lungesykdommer}{13}{chapter.4}
-\contentsline {section}{\numberline {4.1}Dette har du l\IeC {\ae }rt}{13}{section.4.1}
-\contentsline {section}{\numberline {4.2}Anatomi}{14}{section.4.2}
-\contentsline {paragraph}{Stor overflate\\}{14}{figure.4.1}
-\contentsline {paragraph}{300 millioner\\}{15}{section*.40}
-\contentsline {section}{\numberline {4.3}Fysiologi}{15}{section.4.3}
-\contentsline {paragraph}{Syre- base\\}{15}{section*.41}
-\contentsline {paragraph}{Litt om O\textsubscript {2}\\}{15}{section*.42}
-\contentsline {section}{\numberline {4.4}Patologi}{15}{section.4.4}
-\contentsline {paragraph}{Arrvev\\}{15}{section*.43}
-\contentsline {paragraph}{Emfysem\\}{15}{section*.44}
-\contentsline {paragraph}{Andre problemer\\}{15}{section*.45}
-\contentsline {section}{\numberline {4.5}Klinikk}{15}{section.4.5}
-\contentsline {subsection}{\numberline {4.5.1}KOLS}{15}{subsection.4.5.1}
-\contentsline {paragraph}{St\IeC {\o }rste pasientproblemer\\}{15}{section*.46}
-\contentsline {paragraph}{Mange viktige m\IeC {\r a}linger\\}{16}{section*.47}
-\contentsline {subsection}{\numberline {4.5.2}Pneumoni}{16}{subsection.4.5.2}
-\contentsline {subsection}{\numberline {4.5.3}Lungeemboli}{16}{subsection.4.5.3}
-\contentsline {section}{\numberline {4.6}Pasienteksempler}{17}{section.4.6}
-\contentsline {subsection}{\numberline {4.6.1}Pasient 5}{17}{subsection.4.6.1}
-\contentsline {subsection}{\numberline {4.6.2}Pasient 6}{19}{subsection.4.6.2}
-\contentsline {chapter}{\chapternumberline {5}Urinveier}{21}{chapter.5}
-\contentsline {section}{\numberline {5.1}Gullkornene:}{21}{section.5.1}
-\contentsline {section}{\numberline {5.2}Anatomi}{21}{section.5.2}
-\contentsline {paragraph}{Feilkonstruksjon?\\}{21}{section*.48}
-\contentsline {paragraph}{Den svake str\IeC {\r a}len\\}{21}{section*.49}
-\contentsline {section}{\numberline {5.3}Fysiologi}{22}{section.5.3}
-\contentsline {section}{\numberline {5.4}Patologi}{22}{section.5.4}
-\contentsline {paragraph}{Flere niv\IeC {\r a}er\\}{22}{section*.50}
-\contentsline {section}{\numberline {5.5}Klinikk}{22}{section.5.5}
-\contentsline {subsection}{\numberline {5.5.1}UVI}{22}{subsection.5.5.1}
-\contentsline {section}{\numberline {5.6}Pasienteksempler}{22}{section.5.6}
-\contentsline {subsection}{\numberline {5.6.1}Pasient 7}{22}{subsection.5.6.1}
-\contentsline {subsection}{\numberline {5.6.2}Pasient 8}{22}{subsection.5.6.2}
-\contentsline {chapter}{\chapternumberline {6}Delir}{25}{chapter.6}
-\contentsline {section}{\numberline {6.1}Viktigeste momenter fra foredraget}{25}{section.6.1}
-\contentsline {section}{\numberline {6.2}Anatomi}{25}{section.6.2}
-\contentsline {section}{\numberline {6.3}Fysiologi}{26}{section.6.3}
-\contentsline {section}{\numberline {6.4}Patologi}{26}{section.6.4}
-\contentsline {paragraph}{Oversikt over noen av tilstandene som g\IeC {\r a}r forut for delir\\}{26}{section*.51}
-\contentsline {section}{\numberline {6.5}Klinikk}{27}{section.6.5}
-\contentsline {paragraph}{Mange symptomer}{27}{section*.52}
-\contentsline {section}{\numberline {6.6}Pasienteksempler}{27}{section.6.6}
-\contentsline {subsection}{\numberline {6.6.1}Pasient 9}{27}{subsection.6.6.1}
-\contentsline {subsection}{\numberline {6.6.2}Pasient 10}{27}{subsection.6.6.2}
-\contentsline {chapter}{\chapternumberline {7}Diabetes i alderdommen}{29}{chapter.7}
-\contentsline {section}{\numberline {7.1}Punkter \IeC {\r a} ha med seg:}{29}{section.7.1}
-\contentsline {section}{\numberline {7.2}Anatomi og fysiologi}{29}{section.7.2}
-\contentsline {section}{\numberline {7.3}Patologi}{30}{section.7.3}
-\contentsline {paragraph}{Insulinresistent\\}{30}{section*.53}
-\contentsline {paragraph}{Tjuvkobling\\}{30}{section*.54}
-\contentsline {section}{\numberline {7.4}Klinikk}{30}{section.7.4}
-\contentsline {subsubsection}{En t\IeC {\o }ff medisin}{30}{section*.55}
-\contentsline {subsubsection}{Mange sykdommer f\IeC {\o }lger i kj\IeC {\o }lvannet}{30}{section*.56}
-\contentsline {subsection}{\numberline {7.4.1}Medikamenter\cite {legevakthandboka}}{30}{subsection.7.4.1}
-\contentsline {subsubsection}{Settes i huden(s.c.):}{30}{section*.57}
-\contentsline {paragraph}{Hurtig-/korttidsvirkende insulinpreparater (Insulin Actrapid\textregistered , Insuman Rapid\textregistered ):\\}{30}{section*.58}
-\contentsline {paragraph}{Ekstra hurtigvirkende insulinanalog (Humalog\textregistered , NovoRapid\textregistered og Apidra\textregistered ):}{30}{section*.59}
-\contentsline {paragraph}{Middels langtidsvirkende insulin (Humulin NPH\textregistered , Insulin Insulatard\textregistered og Insuman Basal\textregistered ):\\}{31}{section*.60}
-\contentsline {paragraph}{Langtidsvirkende insulin (Lantus\textregistered , Levimir\textregistered ):\\}{31}{section*.61}
-\contentsline {paragraph}{Kombinasjon av hurtig- og middels langtidsvirkende insulin (Insulin Mixtard\textregistered , Insuman Comb\textregistered , Humalog Mix\textregistered 25, Novo Mix\textregistered 30):\\}{31}{section*.62}
-\contentsline {subsubsection}{Tablettbehandling:}{31}{section*.63}
-\contentsline {paragraph}{Ved overvekt (kroppsmasseindeks(BMI) mer enn 27):\\}{31}{section*.64}
-\contentsline {paragraph}{Ingen overvekt (kroppsmasseindeks(BMI) mindre enn 27):\\}{31}{section*.65}
-\contentsline {paragraph}{Ved utilfredsstillende effekt av de to nevnt over:\\}{31}{section*.66}
-\contentsline {paragraph}{Hvis man ikke kommer til m\IeC {\r a}l med tabletter:\\}{31}{section*.67}
-\contentsline {paragraph}{Obs:\\}{31}{section*.68}
-\contentsline {section}{\numberline {7.5}Pasienteksempler}{32}{section.7.5}
-\contentsline {subsection}{\numberline {7.5.1}Pasient 11}{32}{subsection.7.5.1}
-\contentsline {paragraph}{En kvinne i n\IeC {\o }d...\\}{32}{section*.69}
-\contentsline {subsection}{\numberline {7.5.2}Pasient 12}{32}{subsection.7.5.2}
-\contentsline {paragraph}{Et s\IeC {\o }tt problem...\\}{32}{section*.70}
-\contentsline {chapter}{Kilder:}{33}{section*.72}
-\contentsline {chapter}{Illustrasjoner}{34}{section*.73}
+\contentsline {chapter}{\chapternumberline {2}Hjertesykdommer}{5}{chapter.2}
+\contentsline {section}{\numberline {2.1}Perlene...}{5}{section.2.1}
+\contentsline {section}{\numberline {2.2}Noen sykdommer av mange}{6}{section.2.2}
+\contentsline {section}{\numberline {2.3}Anatomi}{6}{section.2.3}
+\contentsline {paragraph}{Effektiv jobbing\\}{6}{section*.9}
+\contentsline {section}{\numberline {2.4}Fysiologi}{6}{section.2.4}
+\contentsline {paragraph}{Hva menes med hjerte- og karsykdommer?\\}{7}{section*.10}
+\contentsline {section}{\numberline {2.5}Patologi}{7}{section.2.5}
+\contentsline {paragraph}{Skader oppst\IeC {\r a}r\\}{7}{section*.11}
+\contentsline {section}{\numberline {2.6}Klinikk}{7}{section.2.6}
+\contentsline {subsection}{\numberline {2.6.1}Hjerteinfarkt}{7}{subsection.2.6.1}
+\contentsline {paragraph}{Symptomer\\}{7}{section*.12}
+\contentsline {paragraph}{F\IeC {\o }rstehjelp\\}{7}{section*.13}
+\contentsline {paragraph}{Farlige momenter\\}{7}{section*.14}
+\contentsline {paragraph}{Hva skjer etterp\IeC {\r a}?\\}{7}{section*.15}
+\contentsline {paragraph}{Tips for hverdagen\\}{8}{section*.16}
+\contentsline {subsection}{\numberline {2.6.2}Hjertesvikt}{8}{subsection.2.6.2}
+\contentsline {paragraph}{Symtomer\\}{9}{section*.17}
+\contentsline {paragraph}{Hva m\IeC {\r a} helsepersonell passe p\IeC {\r a}\\}{9}{section*.18}
+\contentsline {paragraph}{Hvor farlig er det\\}{9}{section*.19}
+\contentsline {paragraph}{Tips for hverdagen\\}{9}{section*.20}
+\contentsline {subsection}{\numberline {2.6.3}Atrieflimmer}{9}{subsection.2.6.3}
+\contentsline {paragraph}{Symptomer\\}{9}{section*.21}
+\contentsline {paragraph}{Hva m\IeC {\r a} hjemmetjenesten v\IeC {\ae }re oppmerksomme p\IeC {\r a}?\\}{9}{section*.22}
+\contentsline {paragraph}{Medisiner\\}{9}{section*.23}
+\contentsline {subsection}{\numberline {2.6.4}Digitalis}{9}{subsection.2.6.4}
+\contentsline {paragraph}{Litt om farmakologi\\}{10}{section*.24}
+\contentsline {paragraph}{Load and go...\\}{10}{section*.25}
+\contentsline {paragraph}{Rare symptomer\\}{10}{section*.26}
+\contentsline {paragraph}{Praktisk r\IeC {\r a}d:\\}{10}{section*.27}
+\contentsline {section}{\numberline {2.7}Pasienteksempler}{10}{section.2.7}
+\contentsline {subsection}{\numberline {2.7.1}Pasient 1}{10}{subsection.2.7.1}
+\contentsline {subsection}{\numberline {2.7.2}Pasient 2}{11}{subsection.2.7.2}
+\contentsline {chapter}{\chapternumberline {3}Nevrologiske sykdommer}{13}{chapter.3}
+\contentsline {section}{\numberline {3.1}Hva du skal ta med deg videre:}{13}{section.3.1}
+\contentsline {section}{\numberline {3.2}Kort om denne delen...}{13}{section.3.2}
+\contentsline {section}{\numberline {3.3}Anatomi}{13}{section.3.3}
+\contentsline {paragraph}{Et komplekst bilde}{13}{figure.3.1}
+\contentsline {paragraph}{Inndelingen\\}{14}{section*.29}
+\contentsline {section}{\numberline {3.4}Fysiologi}{14}{section.3.4}
+\contentsline {paragraph}{Kompleks struktur\\}{14}{section*.30}
+\contentsline {paragraph}{Plastisitet\\}{14}{section*.31}
+\contentsline {section}{\numberline {3.5}Patologi}{15}{section.3.5}
+\contentsline {paragraph}{Sykdommer i blod\IeC {\r a}rene\\}{15}{section*.32}
+\contentsline {paragraph}{Sykdommer i nervescellene\\}{15}{section*.33}
+\contentsline {section}{\numberline {3.6}Klinikk}{16}{section.3.6}
+\contentsline {subsection}{\numberline {3.6.1}Slag og drypp}{16}{subsection.3.6.1}
+\contentsline {subsection}{\numberline {3.6.2}Demens}{16}{subsection.3.6.2}
+\contentsline {subsubsection}{Alzheimers}{16}{section*.34}
+\contentsline {subsubsection}{Andre former for demens}{16}{section*.35}
+\contentsline {paragraph}{Lewy- Body demens\\}{16}{section*.36}
+\contentsline {paragraph}{Frontallappsdemens\\}{17}{section*.37}
+\contentsline {paragraph}{Degenerative forandringer; \IeC {\r A}reforkalkning\\}{17}{section*.38}
+\contentsline {section}{\numberline {3.7}Pasienteksempler}{17}{section.3.7}
+\contentsline {subsection}{\numberline {3.7.1}Pasient 3}{17}{subsection.3.7.1}
+\contentsline {subsection}{\numberline {3.7.2}Pasient 4}{17}{subsection.3.7.2}
+\contentsline {chapter}{\chapternumberline {4}Lungesykdommer}{19}{chapter.4}
+\contentsline {section}{\numberline {4.1}Dette har du l\IeC {\ae }rt}{19}{section.4.1}
+\contentsline {section}{\numberline {4.2}Anatomi}{20}{section.4.2}
+\contentsline {paragraph}{Stor overflate\\}{20}{figure.4.1}
+\contentsline {paragraph}{300 millioner\\}{21}{section*.40}
+\contentsline {section}{\numberline {4.3}Fysiologi}{21}{section.4.3}
+\contentsline {paragraph}{Syre- base\\}{21}{section*.41}
+\contentsline {paragraph}{Litt om O\textsubscript {2}\\}{21}{section*.42}
+\contentsline {section}{\numberline {4.4}Patologi}{21}{section.4.4}
+\contentsline {paragraph}{Arrvev\\}{21}{section*.43}
+\contentsline {paragraph}{Emfysem\\}{21}{section*.44}
+\contentsline {paragraph}{Andre problemer\\}{21}{section*.45}
+\contentsline {section}{\numberline {4.5}Klinikk}{21}{section.4.5}
+\contentsline {subsection}{\numberline {4.5.1}KOLS}{21}{subsection.4.5.1}
+\contentsline {paragraph}{St\IeC {\o }rste pasientproblemer\\}{21}{section*.46}
+\contentsline {paragraph}{Mange viktige m\IeC {\r a}linger\\}{22}{section*.47}
+\contentsline {subsection}{\numberline {4.5.2}Pneumoni}{22}{subsection.4.5.2}
+\contentsline {subsection}{\numberline {4.5.3}Lungeemboli}{22}{subsection.4.5.3}
+\contentsline {section}{\numberline {4.6}Pasienteksempler}{23}{section.4.6}
+\contentsline {subsection}{\numberline {4.6.1}Pasient 5}{23}{subsection.4.6.1}
+\contentsline {subsection}{\numberline {4.6.2}Pasient 6}{25}{subsection.4.6.2}
+\contentsline {chapter}{\chapternumberline {5}Urinveier}{27}{chapter.5}
+\contentsline {section}{\numberline {5.1}Gullkornene:}{27}{section.5.1}
+\contentsline {section}{\numberline {5.2}Anatomi}{27}{section.5.2}
+\contentsline {paragraph}{Feilkonstruksjon?\\}{27}{section*.48}
+\contentsline {paragraph}{Den svake str\IeC {\r a}len\\}{27}{section*.49}
+\contentsline {section}{\numberline {5.3}Fysiologi}{28}{section.5.3}
+\contentsline {section}{\numberline {5.4}Patologi}{28}{section.5.4}
+\contentsline {paragraph}{Flere niv\IeC {\r a}er\\}{28}{section*.50}
+\contentsline {section}{\numberline {5.5}Klinikk}{28}{section.5.5}
+\contentsline {subsection}{\numberline {5.5.1}UVI}{28}{subsection.5.5.1}
+\contentsline {section}{\numberline {5.6}Pasienteksempler}{28}{section.5.6}
+\contentsline {subsection}{\numberline {5.6.1}Pasient 7}{28}{subsection.5.6.1}
+\contentsline {subsection}{\numberline {5.6.2}Pasient 8}{29}{subsection.5.6.2}
+\contentsline {chapter}{\chapternumberline {6}Delir}{31}{chapter.6}
+\contentsline {section}{\numberline {6.1}Viktigeste momenter fra foredraget}{31}{section.6.1}
+\contentsline {section}{\numberline {6.2}Anatomi}{31}{section.6.2}
+\contentsline {section}{\numberline {6.3}Fysiologi}{32}{section.6.3}
+\contentsline {section}{\numberline {6.4}Patologi}{32}{section.6.4}
+\contentsline {paragraph}{Oversikt over noen av tilstandene som g\IeC {\r a}r forut for delir\\}{32}{section*.51}
+\contentsline {section}{\numberline {6.5}Klinikk}{33}{section.6.5}
+\contentsline {paragraph}{Mange symptomer}{33}{section*.52}
+\contentsline {section}{\numberline {6.6}Pasienteksempler}{33}{section.6.6}
+\contentsline {chapter}{\chapternumberline {7}Diabetes i alderdommen}{35}{chapter.7}
+\contentsline {section}{\numberline {7.1}Punkter \IeC {\r a} ha med seg:}{35}{section.7.1}
+\contentsline {section}{\numberline {7.2}Anatomi og fysiologi}{35}{section.7.2}
+\contentsline {section}{\numberline {7.3}Patologi}{36}{section.7.3}
+\contentsline {paragraph}{Insulinresistent\\}{36}{section*.53}
+\contentsline {paragraph}{Tjuvkobling\\}{36}{section*.54}
+\contentsline {section}{\numberline {7.4}Klinikk}{36}{section.7.4}
+\contentsline {subsubsection}{En t\IeC {\o }ff medisin}{36}{section*.55}
+\contentsline {subsubsection}{Mange sykdommer f\IeC {\o }lger i kj\IeC {\o }lvannet}{36}{section*.56}
+\contentsline {subsection}{\numberline {7.4.1}Medikamenter\cite {legevakthandboka}}{36}{subsection.7.4.1}
+\contentsline {subsubsection}{Settes i huden(s.c.):}{36}{section*.57}
+\contentsline {paragraph}{Hurtig-/korttidsvirkende insulinpreparater (Insulin Actrapid\textregistered , Insuman Rapid\textregistered ):\\}{36}{section*.58}
+\contentsline {paragraph}{Ekstra hurtigvirkende insulinanalog (Humalog\textregistered , NovoRapid\textregistered og Apidra\textregistered ):}{36}{section*.59}
+\contentsline {paragraph}{Middels langtidsvirkende insulin (Humulin NPH\textregistered , Insulin Insulatard\textregistered og Insuman Basal\textregistered ):\\}{37}{section*.60}
+\contentsline {paragraph}{Langtidsvirkende insulin (Lantus\textregistered , Levimir\textregistered ):\\}{37}{section*.61}
+\contentsline {paragraph}{Kombinasjon av hurtig- og middels langtidsvirkende insulin (Insulin Mixtard\textregistered , Insuman Comb\textregistered , Humalog Mix\textregistered 25, Novo Mix\textregistered 30):\\}{37}{section*.62}
+\contentsline {subsubsection}{Tablettbehandling:}{37}{section*.63}
+\contentsline {paragraph}{Ved overvekt (kroppsmasseindeks(BMI) mer enn 27):\\}{37}{section*.64}
+\contentsline {paragraph}{Ingen overvekt (kroppsmasseindeks(BMI) mindre enn 27):\\}{37}{section*.65}
+\contentsline {paragraph}{Ved utilfredsstillende effekt av de to nevnt over:\\}{37}{section*.66}
+\contentsline {paragraph}{Hvis man ikke kommer til m\IeC {\r a}l med tabletter:\\}{37}{section*.67}
+\contentsline {paragraph}{Obs:\\}{37}{section*.68}
+\contentsline {section}{\numberline {7.5}Pasienteksempler}{38}{section.7.5}
+\contentsline {subsection}{\numberline {7.5.1}Pasient 11}{38}{subsection.7.5.1}
+\contentsline {paragraph}{En kvinne i n\IeC {\o }d...\\}{38}{section*.69}
+\contentsline {subsection}{\numberline {7.5.2}Pasient 12}{38}{subsection.7.5.2}
+\contentsline {paragraph}{Et s\IeC {\o }tt problem...\\}{38}{section*.70}
+\contentsline {chapter}{Kilder:}{39}{section*.72}
+\contentsline {chapter}{Illustrasjoner}{40}{section*.73}
