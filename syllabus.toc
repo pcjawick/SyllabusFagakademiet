@@ -1,5 +1,5 @@
 \contentsline {chapter}{Forord}{iii}{chapter*.1}
-\contentsline {chapter}{Innhold}{iv}{section*.2}
+\contentsline {chapter}{Innhold}{iii}{section*.2}
 \contentsline {chapter}{\chapternumberline {1}Hvordan jobbe systematisk}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}Hva m\IeC {\r a} du huske fra dette foredraget}{1}{section.1.1}
 \contentsline {section}{\numberline {1.2}\IeC {\r A} lage verkt\IeC {\o }y for \IeC {\r a} ikke v\IeC {\ae }re redd}{1}{section.1.2}
@@ -11,6 +11,7 @@
 \contentsline {section}{\numberline {1.4}Hvordan finne god informasjon}{2}{section.1.4}
 \contentsline {paragraph}{Jeg lurer p\IeC {\r a}...\\}{2}{section*.7}
 \contentsline {paragraph}{Hvem bestemmer hvordan pasienter skal behandles?\\}{2}{section*.8}
+\contentsline {section}{\numberline {1.5}Systemer er kjedelig}{3}{section.1.5}
 \contentsline {chapter}{\chapternumberline {2}Hjertesykdommer}{5}{chapter.2}
 \contentsline {section}{\numberline {2.1}Perlene...}{5}{section.2.1}
 \contentsline {section}{\numberline {2.2}Noen sykdommer av mange}{6}{section.2.2}
@@ -25,18 +26,18 @@
 \contentsline {paragraph}{Symptomer\\}{7}{section*.12}
 \contentsline {paragraph}{F\IeC {\o }rstehjelp\\}{7}{section*.13}
 \contentsline {paragraph}{Farlige momenter\\}{7}{section*.14}
-\contentsline {paragraph}{Hva skjer etterp\IeC {\r a}?\\}{7}{section*.15}
+\contentsline {paragraph}{Hva skjer etterp\IeC {\r a}?\\}{8}{section*.15}
 \contentsline {paragraph}{Tips for hverdagen\\}{8}{section*.16}
 \contentsline {subsection}{\numberline {2.6.2}Hjertesvikt}{8}{subsection.2.6.2}
-\contentsline {paragraph}{Symtomer\\}{9}{section*.17}
-\contentsline {paragraph}{Hva m\IeC {\r a} helsepersonell passe p\IeC {\r a}\\}{9}{section*.18}
+\contentsline {paragraph}{Symtomer\\}{8}{section*.17}
+\contentsline {paragraph}{Hva m\IeC {\r a} helsepersonell passe p\IeC {\r a}\\}{8}{section*.18}
 \contentsline {paragraph}{Hvor farlig er det\\}{9}{section*.19}
 \contentsline {paragraph}{Tips for hverdagen\\}{9}{section*.20}
 \contentsline {subsection}{\numberline {2.6.3}Atrieflimmer}{9}{subsection.2.6.3}
 \contentsline {paragraph}{Symptomer\\}{9}{section*.21}
 \contentsline {paragraph}{Hva m\IeC {\r a} hjemmetjenesten v\IeC {\ae }re oppmerksomme p\IeC {\r a}?\\}{9}{section*.22}
 \contentsline {paragraph}{Medisiner\\}{9}{section*.23}
-\contentsline {subsection}{\numberline {2.6.4}Digitalis}{9}{subsection.2.6.4}
+\contentsline {subsection}{\numberline {2.6.4}Digitalis}{10}{subsection.2.6.4}
 \contentsline {paragraph}{Litt om farmakologi\\}{10}{section*.24}
 \contentsline {paragraph}{Load and go...\\}{10}{section*.25}
 \contentsline {paragraph}{Rare symptomer\\}{10}{section*.26}
@@ -47,12 +48,12 @@
 \contentsline {chapter}{\chapternumberline {3}Nevrologiske sykdommer}{13}{chapter.3}
 \contentsline {section}{\numberline {3.1}Hva du skal ta med deg videre:}{13}{section.3.1}
 \contentsline {section}{\numberline {3.2}Kort om denne delen...}{13}{section.3.2}
-\contentsline {section}{\numberline {3.3}Anatomi}{13}{section.3.3}
-\contentsline {paragraph}{Et komplekst bilde}{13}{figure.3.1}
+\contentsline {section}{\numberline {3.3}Anatomi}{14}{section.3.3}
+\contentsline {paragraph}{Et komplekst bilde}{14}{figure.3.1}
 \contentsline {paragraph}{Inndelingen\\}{14}{section*.29}
 \contentsline {section}{\numberline {3.4}Fysiologi}{14}{section.3.4}
 \contentsline {paragraph}{Kompleks struktur\\}{14}{section*.30}
-\contentsline {paragraph}{Plastisitet\\}{14}{section*.31}
+\contentsline {paragraph}{Plastisitet\\}{15}{section*.31}
 \contentsline {section}{\numberline {3.5}Patologi}{15}{section.3.5}
 \contentsline {paragraph}{Sykdommer i blod\IeC {\r a}rene\\}{15}{section*.32}
 \contentsline {paragraph}{Sykdommer i nervescellene\\}{15}{section*.33}
@@ -66,7 +67,7 @@
 \contentsline {paragraph}{Degenerative forandringer; \IeC {\r A}reforkalkning\\}{17}{section*.38}
 \contentsline {section}{\numberline {3.7}Pasienteksempler}{17}{section.3.7}
 \contentsline {subsection}{\numberline {3.7.1}Pasient 3}{17}{subsection.3.7.1}
-\contentsline {subsection}{\numberline {3.7.2}Pasient 4}{17}{subsection.3.7.2}
+\contentsline {subsection}{\numberline {3.7.2}Pasient 4}{18}{subsection.3.7.2}
 \contentsline {chapter}{\chapternumberline {4}Lungesykdommer}{19}{chapter.4}
 \contentsline {section}{\numberline {4.1}Dette har du l\IeC {\ae }rt}{19}{section.4.1}
 \contentsline {section}{\numberline {4.2}Anatomi}{20}{section.4.2}
@@ -90,7 +91,7 @@
 \contentsline {subsection}{\numberline {4.6.2}Pasient 6}{25}{subsection.4.6.2}
 \contentsline {chapter}{\chapternumberline {5}Urinveier}{27}{chapter.5}
 \contentsline {section}{\numberline {5.1}Gullkornene:}{27}{section.5.1}
-\contentsline {section}{\numberline {5.2}Anatomi}{27}{section.5.2}
+\contentsline {section}{\numberline {5.2}Anatomi(se bilde side \pageref {bildeurinvei})}{27}{section.5.2}
 \contentsline {paragraph}{Feilkonstruksjon?\\}{27}{section*.48}
 \contentsline {paragraph}{Den svake str\IeC {\r a}len\\}{27}{section*.49}
 \contentsline {section}{\numberline {5.3}Fysiologi}{28}{section.5.3}
@@ -134,7 +135,7 @@
 \contentsline {paragraph}{Obs:\\}{37}{section*.68}
 \contentsline {section}{\numberline {7.5}Pasienteksempler}{38}{section.7.5}
 \contentsline {subsection}{\numberline {7.5.1}Pasient 11}{38}{subsection.7.5.1}
-\contentsline {paragraph}{En kvinne i n\IeC {\o }d...\\}{38}{section*.69}
+\contentsline {paragraph}{En herre i n\IeC {\o }d...\\}{38}{section*.69}
 \contentsline {subsection}{\numberline {7.5.2}Pasient 12}{38}{subsection.7.5.2}
 \contentsline {paragraph}{Et s\IeC {\o }tt problem...\\}{38}{section*.70}
 \contentsline {chapter}{Kilder:}{39}{section*.72}

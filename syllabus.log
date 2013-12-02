@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.7.22)  23 NOV 2013 17:35
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.7.22)  2 DEC 2013 21:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -810,9 +810,9 @@ e
 {/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
 
 ]
-Overfull \hbox (0.27556pt too wide) in paragraph at lines 2--4
-\OT1/cmss/m/n/12 Denne bo-ken er et ved-legg til fagda-gen i ar-rangert av fa-g
-akademiet. M^^Walgruppen
+Overfull \hbox (10.44626pt too wide) in paragraph at lines 2--4
+\OT1/cmss/m/n/12 anser og lit-ter-at-u-ran-be-falinger for de som er in-ter-ess
+ert. Takk til fagutviklingssyke-
  []
 
 
@@ -829,14 +829,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--8
 LaTeX Font Warning: Font shape `OT1/cmss/m/it' in size <12> not available
 (Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 9.
 
-[3]) (./syllabus.toc
+) (./syllabus.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 1.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 1.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 1.
- [4]) [5] [6
+ [3]
+Underfull \vbox (badness 1558) has occurred while \output is active []
+
+ [4])
+[5] [6
 
 ] (./kap/systematisk.tex
 LaTeX Font Info:    Try loading font information for OMS+cmss on input line 4.
@@ -883,7 +887,13 @@ LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
 
 [1
 
-] [2]) (./kap/hjerte.tex [3] [4
+]
+Overfull \hbox (22.5878pt too wide) in paragraph at lines 25--26
+[]\OT1/cmss/m/n/12 Det finnes ogs^^Wa noen gode b^^\ker om em-net. For ek-sem-p
+el "Kunnskapsh^^Wandtering
+ []
+
+[2]) (./kap/hjerte.tex [3] [4
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 6--7
@@ -925,7 +935,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--17
 
  []
 
-[5] <./kap/bilder/hjertebedre.jpg, id=331, 1027.84pt x 605.26125pt>
+[5] <./kap/bilder/hjertebedre.jpg, id=340, 1027.84pt x 605.26125pt>
 File: ./kap/bilder/hjertebedre.jpg Graphic file (type jpg)
 
 <use ./kap/bilder/hjertebedre.jpg>
@@ -935,12 +945,12 @@ Package pdftex.def Info: ./kap/bilder/hjertebedre.jpg used on input line 20.
 
 LaTeX Warning: Citation `!!!' on page 7 undefined on input line 35.
 
-
+[7]
 Underfull \hbox (badness 10000) in paragraph at lines 47--48
 
  []
 
-[7]
+
 Underfull \hbox (badness 10000) in paragraph at lines 48--49
 
  []
@@ -966,12 +976,12 @@ Overfull \hbox (7.70174pt too wide) in paragraph at lines 81--82
 esvikt b^^\r f^^\re drikkeskjema
  []
 
-
+[9]
 Underfull \hbox (badness 10000) in paragraph at lines 93--95
 
  []
 
-[9] [10] [11]) (./kap/nevro.tex [12
+[10]) (./kap/nevro.tex [11] [12
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 4--5
@@ -998,87 +1008,76 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--9
 
  []
 
-<./kap/bilder/nevro1.jpg, id=400, 180.675pt x 240.9pt>
+<./kap/bilder/nevro1.jpg, id=409, 180.675pt x 240.9pt>
 File: ./kap/bilder/nevro1.jpg Graphic file (type jpg)
 
 <use ./kap/bilder/nevro1.jpg>
 Package pdftex.def Info: ./kap/bilder/nevro1.jpg used on input line 16.
 (pdftex.def)             Requested size: 216.81pt x 289.08221pt.
  [13] [14 <./kap/bilder/nevro1.jpg>]
-<./kap/bilder/homunc.jpg, id=418, 433.62pt x 383.9946pt>
+<./kap/bilder/homunc.jpg, id=426, 433.62pt x 383.9946pt>
 File: ./kap/bilder/homunc.jpg Graphic file (type jpg)
 
 <use ./kap/bilder/homunc.jpg>
 Package pdftex.def Info: ./kap/bilder/homunc.jpg used on input line 33.
 (pdftex.def)             Requested size: 216.81pt x 191.99683pt.
-
-
-LaTeX Warning: Citation `!!!' on page 15 undefined on input line 41.
-
-
-Underfull \vbox (badness 2735) has occurred while \output is active []
-
- [15 <./kap/bilder/homunc.jpg>]
-
-LaTeX Warning: Reference `lewy-body' on page 16 undefined on input line 44.
-
-[16]
-Underfull \hbox (badness 10000) in paragraph at lines 57--59
+ [15 <./kap/bilder/homunc.jpg>] [16]
+Underfull \hbox (badness 10000) in paragraph at lines 62--64
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--60
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 60--61
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 61--62
+Underfull \hbox (badness 10000) in paragraph at lines 66--67
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 62--63
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 65--68
+Underfull \hbox (badness 10000) in paragraph at lines 70--73
 
  []
 
 [17]
-Underfull \hbox (badness 10000) in paragraph at lines 70--71
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 71--72
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 72--73
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 73--74
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 74--75
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 75--76
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--78
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--80
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
 
  []
 
@@ -1139,7 +1138,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 17--18
 
 [19
 
-] <./kap/bilder/lungeskjema.png, id=457, 351.2322pt x 448.5558pt>
+] <./kap/bilder/lungeskjema.png, id=469, 351.2322pt x 448.5558pt>
 File: ./kap/bilder/lungeskjema.png Graphic file (type png)
 
 <use ./kap/bilder/lungeskjema.png>
@@ -1151,21 +1150,21 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 33.
 
-<./kap/bilder/alveole.png, id=466, 644.6484pt x 487.0998pt>
+<./kap/bilder/alveole.png, id=478, 644.6484pt x 487.0998pt>
 File: ./kap/bilder/alveole.png Graphic file (type png)
 
 <use ./kap/bilder/alveole.png>
 Package pdftex.def Info: ./kap/bilder/alveole.png used on input line 39.
 (pdftex.def)             Requested size: 361.34999pt x 273.0416pt.
 
-<./kap/bilder/emfysemct.png, id=467, 472.164pt x 357.9774pt>
+<./kap/bilder/emfysemct.png, id=479, 472.164pt x 357.9774pt>
 File: ./kap/bilder/emfysemct.png Graphic file (type png)
 
 <use ./kap/bilder/emfysemct.png>
 Package pdftex.def Info: ./kap/bilder/emfysemct.png used on input line 46.
 (pdftex.def)             Requested size: 361.34999pt x 273.96106pt.
 
-<./kap/bilder/goldnorsk.png, id=468, 650.9118pt x 318.4698pt>
+<./kap/bilder/goldnorsk.png, id=480, 650.9118pt x 318.4698pt>
 File: ./kap/bilder/goldnorsk.png Graphic file (type png)
 
 <use ./kap/bilder/goldnorsk.png>
@@ -1286,13 +1285,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--8
 
  []
 
-<./kap/bilder/urinveier.png, id=518, 1003.75pt x 1318.9275pt>
+<./kap/bilder/urinveier.png, id=531, 1003.75pt x 1318.9275pt>
 File: ./kap/bilder/urinveier.png Graphic file (type png)
 
 <use ./kap/bilder/urinveier.png>
 Package pdftex.def Info: ./kap/bilder/urinveier.png used on input line 12.
 (pdftex.def)             Requested size: 361.34999pt x 474.81354pt.
- [27] [28]) (./kap/delir.tex [29] [30 <./kap/bilder/urinveier.png>]
+ [27]
+
+LaTeX Warning: Reference `chap:delir' on page 28 undefined on input line 26.
+
+[28]) (./kap/delir.tex [29] [30 <./kap/bilder/urinveier.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
  []
@@ -1454,10 +1457,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 60--61
 
 ) [38] (./syllabus.bbl
 bibitemlist
-) (./syllabus.lof [39
+) [39
 
 
-]) [40]
+] (./syllabus.lof) [40]
 \tf@toc=\write5
 \openout5 = `syllabus.toc'.
 
@@ -1470,7 +1473,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 78.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 78.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 78.
 Package rerunfilecheck Info: File `syllabus.out' has not changed.
-(rerunfilecheck)             Checksum: 23708AB2B66463442FE42BFEE507F455;3056.
+(rerunfilecheck)             Checksum: 1EB052B4F1B31184657047AC0060266A;3143.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1481,13 +1484,13 @@ LaTeX Warning: There were undefined references.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 78.
  ) 
 Here is how much of TeX's memory you used:
- 9785 strings out of 493315
- 137740 string characters out of 6137904
- 254234 words of memory out of 5000000
- 12894 multiletter control sequences out of 15000+600000
+ 9793 strings out of 493315
+ 137842 string characters out of 6137904
+ 255478 words of memory out of 5000000
+ 12899 multiletter control sequences out of 15000+600000
  12538 words of font info for 43 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 43i,13n,35p,722b,396s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 43i,13n,35p,722b,408s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><
 /usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></
@@ -1497,10 +1500,10 @@ sr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr
 r/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></us
 r/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
 /local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on syllabus.pdf (46 pages, 3136949 bytes).
+Output written on syllabus.pdf (46 pages, 3139819 bytes).
 PDF statistics:
- 723 PDF objects out of 1000 (max. 8388607)
- 646 compressed objects within 7 object streams
- 227 named destinations out of 1000 (max. 500000)
- 457 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 737 PDF objects out of 1000 (max. 8388607)
+ 660 compressed objects within 7 object streams
+ 230 named destinations out of 1000 (max. 500000)
+ 465 words of extra memory for PDF output out of 10000 (max. 10000000)
 

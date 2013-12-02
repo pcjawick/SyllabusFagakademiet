@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{anthonisen}
 N~R Anthonisen, J~Manfreda, C~P Warren, E~S Hershfield, G~K Harding, and N~A
@@ -31,6 +31,11 @@ Martin~G Cole, Antonio Ciampi, Eric Belzile, and Lihong Zhong.
   of frequency and prognosis.
 \newblock {\em Age Ageing}, 38(1):19--26, Jan 2009.
 
+\bibitem{FA-Klovning}
+Kloving et~al.
+\newblock Kunnskapsh{\aa}ndtering i medisin og helsefag.
+\newblock book, 03 2013.
+
 \bibitem{legevakthandboka}
 K{\aa}re Moen; Cecilie~Arntzen m~fl.
 \newblock Legevakthandboka, 2013 (utgitt p{\aa} nett).
@@ -40,6 +45,10 @@ Vikrant Mittal, Sunanda Muralee, Deena Williamson, Nicole McEnerney, Jennifer
   Thomas, Mary Cash, and Rajesh~R Tampi.
 \newblock Review: delirium in the elderly: a comprehensive review.
 \newblock {\em Am J Alzheimers Dis Other Demen}, 26(2):97--109, Mar 2011.
+
+\bibitem{NEL-fast}
+NEL.
+\newblock Nel, december 2013.
 
 \bibitem{FA-saladin}
 Kenneth~S. Saladin.

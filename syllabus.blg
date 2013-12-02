@@ -1,0 +1,54 @@
+This is BibTeX, Version 0.99d (TeX Live 2013)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: syllabus.aux
+The style file: plain.bst
+Database file #1: ./kilder_bibtex/bibFA.bib
+Warning--entry type for "NEL-fast" isn't style-file defined
+--line 12 of file ./kilder_bibtex/bibFA.bib
+Warning--entry type for "legevakthandboka" isn't style-file defined
+--line 53 of file ./kilder_bibtex/bibFA.bib
+Warning--I didn't find a database entry for "!!!"
+Warning--can't use both author and editor fields in FA-saladin
+Warning--there's a number but no series in FA-saladin
+You've used 10 entries,
+            2118 wiz_defined-function locations,
+            566 strings with 5657 characters,
+and the built_in function-call counts, 3271 in all, are:
+= -- 296
+> -- 200
+< -- 1
++ -- 80
+- -- 70
+* -- 263
+:= -- 579
+add.period$ -- 30
+call.type$ -- 10
+change.case$ -- 64
+chr.to.int$ -- 0
+cite$ -- 12
+duplicate$ -- 99
+empty$ -- 230
+format.name$ -- 70
+if$ -- 652
+int.to.chr$ -- 0
+int.to.str$ -- 10
+missing$ -- 8
+newline$ -- 52
+num.names$ -- 20
+pop$ -- 63
+preamble$ -- 1
+purify$ -- 55
+quote$ -- 0
+skip$ -- 69
+stack$ -- 0
+substring$ -- 140
+swap$ -- 12
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 38
+warning$ -- 2
+while$ -- 25
+width$ -- 12
+write$ -- 107
+(There were 5 warnings)
